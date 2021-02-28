@@ -1,0 +1,1 @@
+A shiny app software (created by R) to compare statistical analysis of gene expression values of normal vs abnormal sex-chromosomed sample types.
