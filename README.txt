@@ -14,3 +14,9 @@ of plots, heatmaps and tables. The differentially expressed genes determined fro
 analyses then undergoes a gene ontology analysis to determine the most significant GO terms from
 which biological findings are obtained. Then from the four different sample types the effect on gene
 expression of the two abnormal samples is compared with the two controls.
+
+The files attached are:
+1- App.R : the front-end application software
+2- Appcode.R : the back-end application operating code (statistical analyses and plotting functions)
+3- Preprocessing.R : the preprocessing code for the raw illumina data (using lumi package)
+4- Manhattan and GO annotation.R : code for adding some gene annotations for manhattan plot and gene ontology
